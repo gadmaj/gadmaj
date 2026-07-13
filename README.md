@@ -1,7 +1,7 @@
 ## Hi, I'm Gad
 
 Welcome to my GitHub!
-I am currently an undergraduate student at New York University, Tandon School of Engineering studying Mathematics. Majority of my work on here are projects within software, mathematics, and robotics.
+I am currently an undergraduate student at New York University, Tandon School of Engineering studying Mathematics. Majority of my work on here are projects within mathematics or robotics.
 I intend to pursue a PhD in Applied Mathematics, with research interests in numerical methods, control theory, and autonomous systems.
 
 ---
