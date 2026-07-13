@@ -1,12 +1,6 @@
-## Hi, I'm Gad
+## hi
 
-Welcome to my GitHub!
-I am currently an undergraduate student at New York University, Tandon School of Engineering studying Mathematics. Majority of my work on here are projects within mathematics or robotics.
-I intend to pursue a PhD in Applied Mathematics, with research interests in numerical methods, control theory, and autonomous systems.
-
----
-
-### languages & tools
+### i use these things sometimes
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,28 +27,6 @@ I intend to pursue a PhD in Applied Mathematics, with research interests in nume
 </p>
 
 ---
-
-<!-- ### projects
-
-  -  ##### robotics
-
-        - **[NYU Robotic Design Team](https://rdt.engineering.nyu.edu/)**  
-
-        - **[FIRST Robotics Competition, Team #589, Falkon Robotics](https://github.com/589CVHSfrc/CVHSRobot2024/commits/main/)**
-
-        - **[Bronco Space, Project BILL-EE](https://github.com/BroncoSpace-BILLEE)**
-
-        - **
-
-  -  ##### webdev 
-
-        - **[1300green](https://1300.green)**
-
-        - **[AI-dio](https://www.samly.me/aidio/)**
-
-        - **[driphouse](https://gadmaj.org/dhweb_archive)** 
-
---- -->
 
 ### contact & more
 
